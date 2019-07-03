@@ -1,8 +1,9 @@
-package main
+package exercise
 
 import "fmt"
 
-func main() {
+// Ex1 tbd
+func Ex1() {
 	x := 42
 	y := "James Bond"
 	z := true
