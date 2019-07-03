@@ -7,6 +7,8 @@ import (
 	ex2 "./exercise2"
 	ex3 "./exercise3"
 	ex4 "./exercise4"
+	ex5 "./exercise5"
+	ex6 "./exercise6"
 )
 
 func main() {
@@ -27,4 +29,14 @@ func main() {
 
 	fmt.Println("ex4()")
 	ex4.Ex4()
+
+	fmt.Println()
+
+	fmt.Println("ex5()")
+	ex5.Ex5()
+
+	fmt.Println()
+
+	fmt.Println("ex6()")
+	ex6.Ex6()
 }
