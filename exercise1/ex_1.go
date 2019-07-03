@@ -1,8 +1,8 @@
-package exercise
+package exercise1
 
 import "fmt"
 
-// Ex1 tbd
+// Ex1 is a complete solution on jedi lvl 1
 func Ex1() {
 	x := 42
 	y := "James Bond"
